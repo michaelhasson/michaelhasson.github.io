@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Michael Hasson, PhD"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Michael Hasson"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Telling stories about our planet with data"
+  bio              : "Postdoc @ Neukom Institute, Dartmouth. Telling stories about our planet with data. Earth observation, rivers, and sand are my jam. "
   location         : "Hanover, NH"
-  employer         : "Neukom Institute for Computational Science, Dartmouth College"
+  employer         : "Dartmouth College"
   uri              : # URL
   email            : "michael.hasson@dartmouth.edu" 
 
