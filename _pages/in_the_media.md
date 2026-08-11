@@ -28,6 +28,7 @@ You can also hear about it on NPR's Science Friday
 
 Vegetation Changes the Trajectory of River Bends  
 =====
+
 EarthXplained YouTube short\:
 ---
 <div class="video-wrapper">
