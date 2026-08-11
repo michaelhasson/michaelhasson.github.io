@@ -11,7 +11,7 @@ SandAI
 ===== 
 Our AI sand tracking tool, was recently used to investigate the source of white sand beaches in the Canary Islands. See the short documentary below\:
 
-Title (translated)\: The Trail of Sand – Gran Canaria’s Stolen Beaches | SWR Knowledge
+The Trail of Sand – Gran Canaria’s Stolen Beaches | SWR Knowledge
 ---
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/4wP8d6g3p9s"
@@ -37,6 +37,8 @@ EarthXplained YouTube short\:
           allowfullscreen>
   </iframe>
 </div>  
+
+<br>
 
 Read about it in this <a href="https://www.science.org/doi/full/10.1126/science.aea2382"
    target="_blank" rel="noopener">Science Perspective</a> by Jim Pizzuto, in the <a href="https://sustainability.stanford.edu/news/rise-plant-life-changed-how-rivers-move-study-shows"
