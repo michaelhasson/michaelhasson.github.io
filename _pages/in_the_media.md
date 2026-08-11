@@ -2,7 +2,7 @@
 permalink: /in_the_media/
 title: "In the media"
 author_profile: true
-redirect_from: 
+# redirect_from: 
   # - "/in_the_media/"
   # - "/in_the_media.html"
 ---
