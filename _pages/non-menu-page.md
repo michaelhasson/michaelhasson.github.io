@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /in_the_media/
 title: "Page not in menu"
 author_profile: true
 redirect_from: 

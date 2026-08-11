@@ -8,14 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-    
+  - title: "Research"
+    url: /research/
+
+  - title: "In the media"
+    url: /in_the_media/
+
   - title: "CV"
-    url: /pdf/Hasson_CV_8_2026.pdf/
-    
+    url: /pdf/Hasson_CV_8_2026/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
   - title: "Guide"
     url: /markdown/
