@@ -41,6 +41,8 @@ EarthXplained YouTube short\:
 
 <br>
 
+News articles\:
+---
 Read about it in this <a href="https://www.science.org/doi/full/10.1126/science.aea2382"
    target="_blank" rel="noopener">Science Perspective</a> by Jim Pizzuto, in the <a href="https://sustainability.stanford.edu/news/rise-plant-life-changed-how-rivers-move-study-shows"
    target="_blank" rel="noopener">Stanford News</a>, or at <a href="https://www.sciencedaily.com/releases/2025/08/250831010533.htm" target = "_blank" rel="noopener">Science Daily</a>
