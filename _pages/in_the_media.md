@@ -7,7 +7,6 @@ redirect_from:
   # - "/in_the_media.html"
 ---
 
-Videos and articles featuring my work
 ======
 SandAI, our AI sand tracking tool, was recently used to investigate the source of white sand beaches in the Canary Islands. See the short documentary below!
 
