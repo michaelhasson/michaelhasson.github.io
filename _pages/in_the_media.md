@@ -9,9 +9,9 @@ redirect_from:
 
 Videos and articles featuring my work
 ======
-SandAI, our AI sand sourcing tool, was recently used to investigate the source of white sand beaches in the Canary Islands. See the short documentary below!
+SandAI, our AI sand tracking tool, was recently used to investigate the source of white sand beaches in the Canary Islands. See the short documentary below!
 The Trail of Sand – Gran Canaria’s Stolen Beaches | SWR Knowledge
------
+---
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/4wP8d6g3p9s"
           title="YouTube video player"
