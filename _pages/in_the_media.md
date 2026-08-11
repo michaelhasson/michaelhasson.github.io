@@ -9,8 +9,9 @@ redirect_from:
 
 SandAI
 ===== 
-Our AI sand tracking tool, was recently used to investigate the source of white sand beaches in the Canary Islands. See the short documentary below:
-Title (translated): The Trail of Sand – Gran Canaria’s Stolen Beaches | SWR Knowledge
+Our AI sand tracking tool, was recently used to investigate the source of white sand beaches in the Canary Islands. See the short documentary below\:
+
+Title (translated)\: The Trail of Sand – Gran Canaria’s Stolen Beaches | SWR Knowledge
 ---
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/4wP8d6g3p9s"
@@ -27,7 +28,7 @@ You can also hear about it on NPR's Science Friday
 
 Vegetation Changes the Trajectory of River Bends  
 =====
-EarthXplained YouTube short:
+EarthXplained YouTube short\:
 ---
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/VJST_RpJqsI"
