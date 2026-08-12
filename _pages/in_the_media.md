@@ -9,7 +9,7 @@ redirect_from:
 
 SandAI
 ===== 
-Our AI sand tracking tool, was recently used to investigate the source of white sand beaches in the Canary Islands. See the short documentary below\:
+Our AI sand tracking tool was recently used to investigate the source of white sand beaches in the Canary Islands. See the short documentary below\:
 
 The Trail of Sand – Gran Canaria’s Stolen Beaches | SWR Knowledge
 ---
