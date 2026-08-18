@@ -1,0 +1,31 @@
+- title: "Plants steer meandering rivers."
+  image: "/images/science_fig.png"
+  publications: 
+    - text: "**Hasson**, Finotello, Ielpi, and Lapôtre (_Science_, 2025)"
+      url: "https://www.science.org/doi/abs/10.1126/science.adv4939"
+  description: "Satellite images of ~4,500 river bends show that plants growing on riverbanks dramatically change how rivers move through space. This helps explain the difference between rocks deposited before and after the evolution of plants -- one of the longstanding mysteries of Earth's history. It's also crucial for predicting how rivers will respond to anthropogenic changes like deforestation or desertification."
+   
+
+- title: "Sand grains tell the stories of past worlds."
+  image: "/images/cams_cropped.png"
+  publications: 
+    - text: "**Hasson**, Marvin, Lapôtre (_PNAS_, 2024)"
+      url: "https://www.pnas.org/doi/abs/10.1073/pnas.2407655121"
+    - "**Hasson**, Marvin, Lapôtre (_Journal of Sedimentary Research_, in revision)"
+  description: "Sand grains develop characteristic shapes and textures as they move through different environments. Machine learning/AI techniques let us understand where sand has been, even hundreds of millions of years in Earth's past. We can use this to answer questions about Earth history, archaeology, and even [modern sand piracy](/in_the_media/)."  
+
+- title: "The differing geomorphology and stratigraphy of vegetated and unvegetated meandering rivers."
+  image: "/images/sed_fig.png"
+  publications:
+    - text: "**Hasson**, Marvin, Gunn, Ielpi, Lapôtre (_Sedimentology_, 2023)"
+      url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/sed.13121"
+  description: "Why does it seem like meandering rivers -- stable river channels with muddy floodplains -- seem to only appear after plants evolved? We see them in modern unvegetated environments and on Mars, so they were probably around on the pre-plant Earth too. We used modern analogs to show that the deposits that unvegetated meandering rivers leave behind wouldn't recognizable as meandering river deposits using existing criteria and suggest some new ones."
+
+- title: "Catching disequilibrium states in meandering rivers."
+  image: "/images/change_detection.png"
+  publications:
+    - text: "**Hasson**, Ielpi, Finotello, Lapôtre (_EPSL_, in revision)"
+  description: "How do you define the migration rate of unvegetated meandering rivers that move in fits and bursts? Which parts of the system lead the dance of change? We look at the difference between two timesteps of high resolution topographic data to characterize the evolution of one such river, illustrating exactly how, where, and why the system is so dynamic."
+
+
+
