@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Michael Hasson, PhD"
 title_separator          : "-"
 name                     : &name "Michael Hasson"
@@ -17,6 +17,11 @@ url                      : https://michaelhasson.github.io # The base hostname &
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaelhasson/michaelhasson.github.io"
+
+header:
+  overlay_image: /assets/images/floodplain_2.jpg   
+  overlay_filter: 0.3                            
+  caption: "Abandoned meander bends, Shoshone Creek, Nevada"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -125,7 +130,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -238,6 +243,25 @@ collections:
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      header:
+        overlay_image: /floodplain_2_cropped.jpg
+        # overlay_filter: 1 
+        show_overlay_excerpt: false
+  
+  # Apply to all pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      header:
+        overlay_image: /floodplain_2_cropped.jpg
+        # overlay_filter: 1
+
   - scope:
       path: ""
       type: posts
@@ -290,6 +314,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 
 # Sass/SCSS

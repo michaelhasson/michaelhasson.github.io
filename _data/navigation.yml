@@ -11,14 +11,14 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "In the media"
     url: /in_the_media/
 
   - title: "CV"
-    url: /pdf/Hasson_CV_8_2026/
+    url: /pdf/Hasson_CV_Aug_2026.pdf
 
   # - title: "Talks"
   #   url: /talks/    

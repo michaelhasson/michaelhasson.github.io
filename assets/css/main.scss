@@ -37,3 +37,64 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* change overlay image height */
+.page__hero--overlay {
+  padding-top: 6em !important;   
+  padding-bottom: 6em !important;
+}
+
+/* move profile/sidebar vertically around overlay image */
+
+.page__hero--overlay ~ .sidebar,
+.page__hero--overlay ~ .sidebar__right,
+.page__hero--overlay + #main .sidebar {
+  margin-top: 0em !important;
+}
+
+
+/* sticky sidebar */
+.sidebar,
+.sidebar__right {
+  position: -webkit-sticky; 
+  position: sticky;
+
+  /* When the page is scrolled past the hero, stick 1.5rem from the top */
+  top: 1.5rem;
+
+  max-height: calc(100vh - 3rem);
+  overflow-y: auto;               
+}
+
+.sidebar.is-sticky,
+.sidebar__right.is-sticky {
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+/* Footer */
+
+.site-footer .meta {
+  font-size: 0.8rem; 
+  // line-height: 1.4;
+}
+
+.site-footer .container {
+  text-align: center;
+}
+
+.site-footer {
+  padding: 1.5rem 0;       
+}
+
+/* Project titles */
+
+.project-title {
+  font-size: 1.5rem;   
+  margin-top: 1.5rem;  
+  margin-bottom: 0.8rem;
+}
+
+.section-header {
+  font-size: 2.0rem;
+  margin-top: 1.5rem;
+}
